@@ -1,0 +1,28 @@
+<businessObjectToFileArea><resObject>
+  <TransactionHeader>
+    <responseType>POS_Receipt_Items</responseType>
+    <customerId>123</customerId>
+    <transactions>
+      <receiptType>Selfcheckout</receiptType>
+      <totalDiscount>0.0</totalDiscount>
+      <transactionValue>39.9</transactionValue>
+      <transactionId>C12345678.12345678</transactionId>
+      <transactionTimestamp>2023-11-22 10:00:00</transactionTimestamp>
+      <marketingName>ICA Kvantum Mall of Scandinavia</marketingName>
+      <vatAmount>4.27</vatAmount>
+      <paymentType>External Card</paymentType>
+    </transactions>
+    <transactions>
+      <receiptType>Selfscan and Selfpayment. No involvement of Cashier</receiptType>
+      <totalDiscount>0.0</totalDiscount>
+      <transactionValue>93.48</transactionValue>
+      <transactionId>C23456789.23456789</transactionId>
+      <transactionTimestamp>2023-07-01 15:50:00</transactionTimestamp>
+      <marketingName>Maxi ICA Stormarknad Solna</marketingName>
+      <vatAmount>10.06</vatAmount>
+      <paymentType>External Card</paymentType>
+    </transactions>
+    <caseType>PORTABILITY</caseType>
+  </TransactionHeader>
+</resObject>
+</businessObjectToFileArea>

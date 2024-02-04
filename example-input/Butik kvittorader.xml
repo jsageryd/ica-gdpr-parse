@@ -1,0 +1,74 @@
+<businessObjectToFileArea><resObject>
+  <LineItems>
+    <responseType>POS_Line_Items</responseType>
+    <customerId>123</customerId>
+    <transactions>
+      <quantity>1.0</quantity>
+      <price>17.95</price>
+      <personalOfferId>0</personalOfferId>
+      <voucherValue>0.0</voucherValue>
+      <discountQuantity>0.0</discountQuantity>
+      <slipId>0</slipId>
+      <itemDesc>Yoghurt naturell 3%</itemDesc>
+      <discountValue>0.0</discountValue>
+      <transactionId>C12345678.12345678</transactionId>
+    </transactions>
+    <transactions>
+      <quantity>1.0</quantity>
+      <price>21.95</price>
+      <personalOfferId>0</personalOfferId>
+      <voucherValue>0.0</voucherValue>
+      <discountQuantity>0.0</discountQuantity>
+      <slipId>0</slipId>
+      <itemDesc>Annas Pepparkakor Kardemumma 150g</itemDesc>
+      <discountValue>0.0</discountValue>
+      <transactionId>C12345678.12345678</transactionId>
+    </transactions>
+    <transactions>
+      <quantity>1.0</quantity>
+      <price>13.8</price>
+      <personalOfferId>0</personalOfferId>
+      <voucherValue>0.0</voucherValue>
+      <discountQuantity>0.0</discountQuantity>
+      <slipId>0</slipId>
+      <itemDesc>Färsk mellanmjölk 1,5%</itemDesc>
+      <discountValue>0.0</discountValue>
+      <transactionId>C23456789.23456789</transactionId>
+    </transactions>
+    <transactions>
+      <quantity>2.0</quantity>
+      <price>37.9</price>
+      <personalOfferId>0</personalOfferId>
+      <voucherValue>0.0</voucherValue>
+      <discountQuantity>0.0</discountQuantity>
+      <slipId>0</slipId>
+      <itemDesc>Yoghurt naturell 3%</itemDesc>
+      <discountValue>0.0</discountValue>
+      <transactionId>C23456789.23456789</transactionId>
+    </transactions>
+    <transactions>
+      <quantity>0.47</quantity>
+      <price>11.83</price>
+      <personalOfferId>0</personalOfferId>
+      <voucherValue>0.0</voucherValue>
+      <discountQuantity>0.0</discountQuantity>
+      <slipId>0</slipId>
+      <itemDesc>Banan.</itemDesc>
+      <discountValue>0.0</discountValue>
+      <transactionId>C23456789.23456789</transactionId>
+    </transactions>
+    <transactions>
+      <quantity>1.0</quantity>
+      <price>29.95</price>
+      <personalOfferId>0</personalOfferId>
+      <voucherValue>0.0</voucherValue>
+      <discountQuantity>0.0</discountQuantity>
+      <slipId>0</slipId>
+      <itemDesc>Tomat Piccolini ICA Sel 200g..</itemDesc>
+      <discountValue>0.0</discountValue>
+      <transactionId>C23456789.23456789</transactionId>
+    </transactions>
+    <caseType>PORTABILITY</caseType>
+  </LineItems>
+</resObject>
+</businessObjectToFileArea>
